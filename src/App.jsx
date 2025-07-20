@@ -28,13 +28,13 @@ import {
 
 // Firebase Configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDBiwF5W6_SR1MpOhZr_ZduAIpNV_G7jsk",
-    authDomain: "hackathon-portfolio-aggregator.firebaseapp.com",
-    projectId: "hackathon-portfolio-aggregator",
-    storageBucket: "hackathon-portfolio-aggregator.appspot.com",
-    messagingSenderId: "306813852343",
-    appId: "1:306813852343:web:c99d9773b4942b82e8cb32",
-    measurementId: "G-6N254QMQ15"
+    apiKey: "KEY",
+    authDomain: "DOMAIN",
+    projectId: "ID",
+    storageBucket: "STORAGE",
+    messagingSenderId: "ID",
+    appId: "APP",
+    measurementId: "MID"
 };
 
 // Initialize Firebase
